@@ -1,0 +1,3 @@
+include ':ThemesLib'
+include ':app'
+rootProject.name = "ThemeLib"
